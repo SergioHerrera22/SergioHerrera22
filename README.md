@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sergio Herrera<br><br>Desarrollador Web Full Stack en formación, con experiencia en ventas y atención al cliente en el rubro de pinturas. Me apasiona la tecnología y estoy enfocado en crear sitios web modernos, funcionales y bien estructurados.<br><br>
-### 🛠 Tecnologías:<br>HTML | CSS | JavaScript | React | Node.js | MySQL | Git & GitHub<br><br>
-### 🚀 Proyectos destacados:<br>- [Portfolio personal](https://github.com/SergioHerrera22/portfolio)<br>- Página web de **SAGO Pinturas**<br>- Extensión de Chrome para gestión de productos<br><br>
-### 📫 Contacto:<br>[LinkedIn](https://www.linkedin.com/in/sergio-herrera22/) | santiherreragauna@gmail.com<br>
+## 🛠 Tecnologías:<br>HTML | CSS | JavaScript| Git & GitHub<br><br>
+## 🚀 Proyectos destacados:<br>- Página web de **SAGO Pinturas**<br>- Extensión de Chrome para gestión de productos<br><br>
+## 📫 Contacto:<br>[LinkedIn](https://www.linkedin.com/in/sergio-herrera22/) | santiherreragauna@gmail.com<br>
 
 
 ## 🌐 Socials:
